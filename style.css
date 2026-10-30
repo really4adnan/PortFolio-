@@ -1,14 +1,16 @@
 /* GENERAL */
 
+/* GENERAL */
 @import url('https://googleapis.com');
 
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
 
 body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
 }
 
 html {
@@ -145,3 +147,6 @@ a:hover {
 .hamburger-icon span:first-child {
     transform: none;
 }
+
+/* SECTIONS */
+
