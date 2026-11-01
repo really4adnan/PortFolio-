@@ -4,8 +4,8 @@ Welcome to my personal website repository. This project is built for Hack Club t
 
 ## Live Demo
 
-Check out the site live at: https://adn4n.xyz , if it's not working check it out at https://tinyurl.com/pf-adn4n
-
+Check out the site live at: https://adn4n.xyz , if it's not working check it out at [https://tinyurl.com/pf-adn4n
+](https://vercel.com/idk-a764/adnan-pf)
 ## What This Web App Is
 
 This repository hosts a personal developer portfolio designed to showcase interactive web projects, graphics, and web applications in one place.
