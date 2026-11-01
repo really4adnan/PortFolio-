@@ -4,7 +4,7 @@ Welcome to my personal website repository. This project is built for Hack Club t
 
 ## Live Demo
 
-Check out the site live at: https://adn4n.xyz
+Check out the site live at: https://adn4n.xyz , if it's not working check it out at https://tinyurl.com/pf-adn4n
 
 ## What This Web App Is
 
